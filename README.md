@@ -13,7 +13,12 @@ Enlighten is an open library on IPFS
 This smart contract stores all books uploaded to Enlighten and also mint them as NFTs
 
 ### secret.json
-Provide your API keys and private key in [secret.json](https://github.com/Hexdee/Enlighten/blob/main/smartcontract/secret.json)
+Provide your API keys and private key in given below
+{
+    "APP_ID": "Your https://rpc.maticvigil.com API key",
+    "PRIVATE_KEY": "Your private key",
+    "POLYGONSCAN_API_KEY": "Your polygonscan.com apikey"
+}
 
 ### Compile smart contract
 
