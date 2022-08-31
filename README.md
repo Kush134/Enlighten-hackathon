@@ -1,5 +1,5 @@
 # Enlighten
-Enlighten is an open library on IPFS
+The Enlighten is an open library on IPFS
 
 ### Features
 - All users can add books to the library
